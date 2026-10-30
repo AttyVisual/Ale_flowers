@@ -22,6 +22,8 @@ const introLines = [
     { text: "Dovessi avere cento dubbi su di noi", duration: 2.5 },
     { text: "Centouno volte ti farò innamorare", duration: 2.5 },
     { text: "Perchè", duration: 2.5 },
+    { text: "Voglio essere nel tupo percorso", duration: 2.5 },
+    { text: "E soprattutto perchè", duration: 2.5 },
     { text: "Ti amo", duration: 3.0 }
 ];
 
