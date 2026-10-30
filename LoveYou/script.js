@@ -19,7 +19,7 @@ let animationStartTime = 0;
 let introDone = false;
 const introLines = [
     { text: "Se anche", duration: 2.5 },
-    { text: "Dovessi avere cento dubbi su di noi", duration: 2.5 },
+    { text: "Tu dovessi avere cento dubbi su di noi", duration: 2.5 },
     { text: "Centouno volte ti farò innamorare", duration: 2.5 },
     { text: "Perchè", duration: 2.5 },
     { text: "Voglio essere nel tupo percorso", duration: 2.5 },
